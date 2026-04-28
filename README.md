@@ -1,2 +1,4 @@
-# Image-Matching-and-Retrieval-Computer-Vision-
+# Image Matching and Retrieval (Computer Vision)
 Computer Vision Assignment at The University of Adelaide
+
+## Description
