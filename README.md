@@ -11,3 +11,8 @@ This project implements image matching and retrieval that identifies objects acr
   - KNN matching with ratio test
   - RANSAC-based homography for geometric verification
 - Ranked results using inlier matches
+
+## Technologies Used
+- Python
+- OpenCV
+- NumPy
